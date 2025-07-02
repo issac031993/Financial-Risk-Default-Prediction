@@ -41,11 +41,13 @@ Analyzed company financial metrics to predict defaults, helping financial instit
 - Explore ensemble approaches for robust performance.
 
 ### 📈 Key Visualizations
-![Heatmap of Top Features](images/heatmap_top_features.png)
-![Boxplots by Default Status](images/boxplot_features.png)
-![ROC Curve - Logistic Regression](images/roc_logistic.png)
-![ROC Curve - Random Forest](images/roc_rf.png)
-![ROC Curve - LDA](images/roc_lda.png)
+![Heatmap of top 10 corelated features](https://github.com/user-attachments/assets/05d10352-b630-429e-864a-20245681862e)
+
+![ROC Curve Logistic Regression](https://github.com/user-attachments/assets/a121cc87-f3cc-46c0-b1b5-b043fee55463)
+
+![ROC Curve Random Forest](https://github.com/user-attachments/assets/e496b254-86a1-4acd-98ca-9b9d3f386119)
+
+!ROC Curve Linear Discriminant Analysis](https://github.com/user-attachments/assets/ff671a03-0d77-48c8-a9d7-eec5af5ecf81)
 
 ---
 
@@ -68,10 +70,11 @@ Performed risk analysis on 6 years of weekly prices for 10 Indian stocks, calcul
 - Stocks like `Idea_Vodafone` & `Jet_Airways` show **high volatility with negative returns**, indicating riskier profiles.
 
 ### 📈 Key Visualizations
-![Stock Trends - Indian Hotel](images/stock_trend_hotel.png)
-![Stock Trends - Axis Bank](images/stock_trend_axis.png)
-![Stock Returns](images/stock_returns.png)
-![Mean vs Std Dev Plot](images/risk_return_scatter.png)
+![Stock Price Trend of Indian Hotel over Time](https://github.com/user-attachments/assets/2aa054eb-e480-4f0f-9d90-c581089d6484)
+
+![Stock Price Trend of Indian Hotel over Time](https://github.com/user-attachments/assets/20e87b48-5e62-48c0-8a0c-26715da8157c)
+
+![Relationship Between Stock Means and Standard Deviation](https://github.com/user-attachments/assets/89d750c4-b658-44e4-930f-353989862fa3)
 
 ---
 
